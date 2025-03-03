@@ -1,0 +1,1 @@
+# ya_autoupdate_catalog
